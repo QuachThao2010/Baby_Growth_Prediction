@@ -1,0 +1,123 @@
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.exe
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.deps.json
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.runtimeconfig.json
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.runtimeconfig.dev.json
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\ref\DuDoanTangTruong.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.pdb
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.AssemblyReference.cache
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmMain.resources
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.Properties.Resources.resources
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.GenerateResource.cache
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.AssemblyInfoInputs.cache
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.AssemblyInfo.cs
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.CoreCompileInputs.cache
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.CopyComplete
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\ref\DuDoanTangTruong.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.pdb
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.genruntimeconfig.cache
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Humanizer.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmDuDoan.resources
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmTapLuat.resources
+D:\HCG\Thi\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmHome.resources
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.exe
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.deps.json
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.runtimeconfig.json
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.runtimeconfig.dev.json
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\ref\DuDoanTangTruong.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\DuDoanTangTruong.pdb
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Humanizer.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.AssemblyReference.cache
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmDuDoan.resources
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmHome.resources
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmMain.resources
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmTapLuat.resources
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.Properties.Resources.resources
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.GenerateResource.cache
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.AssemblyInfoInputs.cache
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.AssemblyInfo.cs
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.CoreCompileInputs.cache
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.csproj.CopyComplete
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\ref\DuDoanTangTruong.dll
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.pdb
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.genruntimeconfig.cache
+D:\HCG\Nhóm 18\DuDoanTangTruong\DuDoanTangTruong\obj\Debug\net5.0-windows\DuDoanTangTruong.frmDoThi.resources
